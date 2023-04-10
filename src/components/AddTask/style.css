@@ -1,0 +1,11 @@
+.form-group{
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 5px;
+}
+.addTask-container{
+    align-self: center;
+    justify-self: center;
+    padding-bottom: 1Q  1\a n;
+
+}
