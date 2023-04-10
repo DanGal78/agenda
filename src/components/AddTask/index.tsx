@@ -10,7 +10,7 @@ export const AddTask: React.FC = () => {
             </div>
             <div className="form-group">
                 <label htmlFor="data">Data</label>
-                <input type="data" id="data" />
+                <input type="date" id="data" />
             </div>
             <div className="form-group">
                 <Button className="sucess">Salvar</Button>
