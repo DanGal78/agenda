@@ -27,10 +27,6 @@ export const AddTask: React.FC<AddTaskProps> = ({onAddTask}) => {
         setTitulo("");
     }
 
-
-
-
-
     return (
         <div className="addTask-container">
             <div className="form-group">
